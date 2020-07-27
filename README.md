@@ -14,8 +14,11 @@ lancer l'api en local
 
 `npm start`
 
+## Bonus
+
+Postman documentation https://documenter.getpostman.com/view/507654/T1Dqhd2p
+
 ## Notes
 
 - afin de gagner du temps (avec l'import de fixtures dans la db), j'ai utiliser mon mongodb perso (gratuit) hoste sur MongoDB Atlas.
 - les calculs mathematiques incluant la "standard deviation" sont faux.
--
